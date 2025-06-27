@@ -3,6 +3,8 @@
 ## Overview
 
 Smart Sorting is an innovative project focused on enhancing the precision and efficiency of detecting rotten fruits and vegetables using cutting-edge transfer learning techniques. By leveraging pre-trained VGG16 deep learning models and adapting them to specific datasets of fruits and vegetables, this project aims to revolutionize the process of sorting and quality control in the agricultural and food industry.
+## live demo
+https://neon-horse-517553.netlify.app
 
 ## Features
 
